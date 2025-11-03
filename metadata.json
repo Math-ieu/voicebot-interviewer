@@ -1,0 +1,7 @@
+{
+  "name": "Voicebot Interviewer",
+  "description": "An intelligent voicebot designed to conduct pre-screening interviews with candidates. It asks standard questions and automatically gathers relevant information for recruiters, providing a real-time transcript of the conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
